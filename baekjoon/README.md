@@ -22,3 +22,4 @@
 |if문|두 수 비교하기|https://www.acmicpc.net/problem/1330|[바로가기](step/2/1330.java)|
 | |시험 성적|https://www.acmicpc.net/problem/9498|[바로가기](step/2/9498.java)|
 | |윤년|https://www.acmicpc.net/problem/2753|[바로가기](step/2/2753.java)|
+| |사분면 고르기|https://www.acmicpc.net/problem/14681|[바로가기](step/2/14681.java)|
