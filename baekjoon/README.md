@@ -20,3 +20,4 @@
 | |나머지|https://www.acmicpc.net/problem/10430|[바로가기](step/1/10430.java)|
 | |곱셈|https://www.acmicpc.net/problem/2588|[바로가기](step/1/2588.java)|
 |if문|두 수 비교하기|https://www.acmicpc.net/problem/1330|[바로가기](step/2/1330.java)|
+| |시험 성적|https://www.acmicpc.net/problem/9498|[바로가기](step/2/9498.java)|
