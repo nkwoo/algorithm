@@ -7,7 +7,7 @@
 ## 단계별 문제 - https://www.acmicpc.net/step
 
 |제목|상세|바로가기|소스코드|
-|----|:----:|----|----|
+|:----:|:----:|----|----|
 |입출력과 사칙연산|Hello World|https://www.acmicpc.net/problem/2557|[바로가기](step/1/2557.java)|
 | |We love kriii|https://www.acmicpc.net/problem/10718|[바로가기](step/1/10718.java)|
 | |고양이|https://www.acmicpc.net/problem/10171|[바로가기](step/1/10171.java)|
@@ -19,3 +19,4 @@
 | |사칙연산|https://www.acmicpc.net/problem/10869|[바로가기](step/1/10869.java)|
 | |나머지|https://www.acmicpc.net/problem/10430|[바로가기](step/1/10430.java)|
 | |곱셈|https://www.acmicpc.net/problem/2588|[바로가기](step/1/2588.java)|
+|if문|두 수 비교하기|https://www.acmicpc.net/problem/1330|[바로가기](step/2/1330.java)|
