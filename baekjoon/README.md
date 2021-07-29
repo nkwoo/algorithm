@@ -25,3 +25,13 @@
 | |사분면 고르기|https://www.acmicpc.net/problem/14681|[바로가기](step/2/14681.java)|
 | |알람 시계|https://www.acmicpc.net/problem/2884|[바로가기](step/2/2884.java)|
 |for문|구구단|https://www.acmicpc.net/problem/2739|[바로가기](step/3/2739.java)|
+| |A+B - 3|https://www.acmicpc.net/problem/10950|[바로가기](step/3/10950.java)|
+| |합|https://www.acmicpc.net/problem/8393|[바로가기](step/3/8393.java)|
+| |빠른 A + B|https://www.acmicpc.net/problem/15552|[바로가기](step/3/15552.java)|
+| |N 찍기|https://www.acmicpc.net/problem/2741|[바로가기](step/3/2741.java)|
+| |기찍 N|https://www.acmicpc.net/problem/2742|[바로가기](step/3/2742.java)|
+| |A+B - 7|https://www.acmicpc.net/problem/11021|[바로가기](step/3/11021.java)|
+| |A+B - 8|https://www.acmicpc.net/problem/11022|[바로가기](step/3/11022.java)|
+| |별 찍기 - 1|https://www.acmicpc.net/problem/2438|[바로가기](step/3/2438.java)|
+| |별 찍기 - 2|https://www.acmicpc.net/problem/2439|[바로가기](step/3/2439.java)|
+| |X보다 작은 수|https://www.acmicpc.net/problem/10871|[바로가기](step/3/10871.java)|
