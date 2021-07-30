@@ -39,3 +39,4 @@
 | |A+B - 4|https://www.acmicpc.net/problem/10871|[바로가기](step/4/10951.java)|
 | |더하기 사이클|https://www.acmicpc.net/problem/10871|[바로가기](step/4/1110.java)|
 |1차원 배열|최소, 최대|https://www.acmicpc.net/problem/10818|[바로가기](step/5/10818.java)|
+| |최댓값|https://www.acmicpc.net/problem/2562|[바로가기](step/5/2562.java)|
