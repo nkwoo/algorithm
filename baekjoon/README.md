@@ -38,3 +38,4 @@
 |while문|A+B - 5|https://www.acmicpc.net/problem/10871|[바로가기](step/4/10952.java)|
 | |A+B - 4|https://www.acmicpc.net/problem/10871|[바로가기](step/4/10951.java)|
 | |더하기 사이클|https://www.acmicpc.net/problem/10871|[바로가기](step/4/1110.java)|
+|1차원 배열|최소, 최대|https://www.acmicpc.net/problem/10818|[바로가기](step/5/10818.java)|
