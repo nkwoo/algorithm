@@ -41,3 +41,4 @@
 |1차원 배열|최소, 최대|https://www.acmicpc.net/problem/10818|[바로가기](step/5/10818.java)|
 | |최댓값|https://www.acmicpc.net/problem/2562|[바로가기](step/5/2562.java)|
 | |숫자의 개수|https://www.acmicpc.net/problem/2577|[바로가기](step/5/2577.java)|
+| |나머지|https://www.acmicpc.net/problem/3052|[바로가기](step/5/3052.java)|
