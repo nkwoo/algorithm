@@ -44,3 +44,4 @@
 | |나머지|https://www.acmicpc.net/problem/3052|[바로가기](step/5/3052.java)|
 | |평균|https://www.acmicpc.net/problem/1546|[바로가기](step/5/1546.java)|
 | |OX퀴즈|https://www.acmicpc.net/problem/8958|[바로가기](step/5/8958.java)|
+| |평균은 넘겠지|https://www.acmicpc.net/problem/4344|[바로가기](step/5/4344.java)|
