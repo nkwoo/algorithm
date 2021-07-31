@@ -35,10 +35,11 @@
 | |별 찍기 - 1|https://www.acmicpc.net/problem/2438|[바로가기](step/3/2438.java)|
 | |별 찍기 - 2|https://www.acmicpc.net/problem/2439|[바로가기](step/3/2439.java)|
 | |X보다 작은 수|https://www.acmicpc.net/problem/10871|[바로가기](step/3/10871.java)|
-|while문|A+B - 5|https://www.acmicpc.net/problem/10871|[바로가기](step/4/10952.java)|
-| |A+B - 4|https://www.acmicpc.net/problem/10871|[바로가기](step/4/10951.java)|
-| |더하기 사이클|https://www.acmicpc.net/problem/10871|[바로가기](step/4/1110.java)|
+|while문|A+B - 5|https://www.acmicpc.net/problem/10952|[바로가기](step/4/10952.java)|
+| |A+B - 4|https://www.acmicpc.net/problem/10951|[바로가기](step/4/10951.java)|
+| |더하기 사이클|https://www.acmicpc.net/problem/1110|[바로가기](step/4/1110.java)|
 |1차원 배열|최소, 최대|https://www.acmicpc.net/problem/10818|[바로가기](step/5/10818.java)|
 | |최댓값|https://www.acmicpc.net/problem/2562|[바로가기](step/5/2562.java)|
 | |숫자의 개수|https://www.acmicpc.net/problem/2577|[바로가기](step/5/2577.java)|
 | |나머지|https://www.acmicpc.net/problem/3052|[바로가기](step/5/3052.java)|
+| |평균|https://www.acmicpc.net/problem/1546|[바로가기](step/5/1546.java)|
