@@ -50,3 +50,4 @@
 | |한수|https://www.acmicpc.net/problem/1065|[바로가기](step/6/1065.java)|✔️|
 |문자열|아스키 코드|https://www.acmicpc.net/problem/11654|[바로가기](step/7/11654.java)||
 | |숫자의 합|https://www.acmicpc.net/problem/11720|[바로가기](step/7/11720.java)||
+| |알파벳 찾기|https://www.acmicpc.net/problem/10809|[바로가기](step/7/10809.java)||
