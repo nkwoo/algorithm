@@ -7,7 +7,7 @@
 ## 단계별 문제 - https://www.acmicpc.net/step
 
 |제목|상세|바로가기|소스코드|피드백여부|
-|:----:|:----:|----|----|----|
+|:----:|:----:|----|----|:----:|
 |입출력과 사칙연산|Hello World|https://www.acmicpc.net/problem/2557|[바로가기](step/1/2557.java)||
 | |We love kriii|https://www.acmicpc.net/problem/10718|[바로가기](step/1/10718.java)||
 | |고양이|https://www.acmicpc.net/problem/10171|[바로가기](step/1/10171.java)||
@@ -48,3 +48,5 @@
 |함수|정수 N개의 합|https://www.acmicpc.net/problem/15596|[바로가기](step/6/15596.java)||
 | |셀프 넘버|https://www.acmicpc.net/problem/4673|[바로가기](step/6/4673.java)||
 | |한수|https://www.acmicpc.net/problem/1065|[바로가기](step/6/1065.java)|✔️|
+|문자열|아스키 코드|https://www.acmicpc.net/problem/11654|[바로가기](step/7/11654.java)||
+| |숫자의 합|https://www.acmicpc.net/problem/11720|[바로가기](step/7/11720.java)||
