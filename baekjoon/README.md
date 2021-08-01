@@ -46,3 +46,4 @@
 | |OX퀴즈|https://www.acmicpc.net/problem/8958|[바로가기](step/5/8958.java)||
 | |평균은 넘겠지|https://www.acmicpc.net/problem/4344|[바로가기](step/5/4344.java)||
 |함수|정수 N개의 합|https://www.acmicpc.net/problem/15596|[바로가기](step/6/15596.java)||
+| |셀프 넘버|https://www.acmicpc.net/problem/4673|[바로가기](step/6/4673.java)||
