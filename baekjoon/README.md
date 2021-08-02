@@ -53,3 +53,4 @@
 | |알파벳 찾기|https://www.acmicpc.net/problem/10809|[바로가기](step/7/10809.java)||
 | |문자열 반복|https://www.acmicpc.net/problem/2675|[바로가기](step/7/2675.java)||
 | |단어 공부|https://www.acmicpc.net/problem/1157|[바로가기](step/7/1157.java)||
+| |단어의 개수|https://www.acmicpc.net/problem/1152|[바로가기](step/7/1152.java)||
