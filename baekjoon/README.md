@@ -55,3 +55,4 @@
 | |단어 공부|https://www.acmicpc.net/problem/1157|[바로가기](step/7/1157.java)||
 | |단어의 개수|https://www.acmicpc.net/problem/1152|[바로가기](step/7/1152.java)||
 | |상수|https://www.acmicpc.net/problem/2908|[바로가기](step/7/2908.java)||
+| |다이얼|https://www.acmicpc.net/problem/5622|[바로가기](step/7/5622.java)||
