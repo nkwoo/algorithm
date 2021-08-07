@@ -59,3 +59,5 @@
 | |크로아티아 알파벳|https://www.acmicpc.net/problem/2941|[바로가기](step/7/2941.java)||
 | |그룹 단어 체커|https://www.acmicpc.net/problem/1316|[바로가기](step/7/1316.java)||
 |기본 수학 1|손익분기점|https://www.acmicpc.net/problem/1712|[바로가기](step/8/1712.java)|✔️|
+| |벌집|https://www.acmicpc.net/problem/2292|||
+| |분수찾기|https://www.acmicpc.net/problem/1193|[바로가기](step/8/1193.java)||

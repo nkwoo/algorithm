@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * Title : 손익분기점
- * Link : https://www.acmicpc.net/problem/1152
+ * Link : https://www.acmicpc.net/problem/1712
  * Feedback : 처음 문제를 풀때는 손익분기점까지 계산을 하여
  *            변수를 long으로 두고 계산해서 속도가 1200ms 까지 나왔다.
  *            너무 늦다고 생각하여 곰곰히 생각해보니 순이익을 가지고
