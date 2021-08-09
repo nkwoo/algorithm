@@ -62,3 +62,4 @@
 | |벌집|https://www.acmicpc.net/problem/2292|[바로가기](step/8/2292.java)||
 | |분수찾기|https://www.acmicpc.net/problem/1193|[바로가기](step/8/1193.java)||
 | |달팽이는 올라가고 싶다|https://www.acmicpc.net/problem/2869|[바로가기](step/8/2869.java)|✔️|
+| |ACM 호텔|https://www.acmicpc.net/problem/10250|[바로가기](step/8/10250.java)||
