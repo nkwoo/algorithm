@@ -7,7 +7,7 @@
 ## 일반 문제
 |   제목   |  바로가기                                | 소스코드                      | 피드백여부  |
 |:------:|--------------------------------------|---------------------------|:------:|
-| 모음의 개수 | https://www.acmicpc.net/problem/1264 | [바로가기](problem/1264.java) ||
+| 모음의 개수 | https://www.acmicpc.net/problem/1264 | [바로가기](problem/1264.java) |   ✔️   |
 
 ## 단계별 문제 - https://www.acmicpc.net/step
 
