@@ -24,11 +24,12 @@
 |           |     사칙연산      | https://www.acmicpc.net/problem/10869 | [바로가기](step/1/10869.java) ||
 |           |      나머지      | https://www.acmicpc.net/problem/10430 | [바로가기](step/1/10430.java) ||
 |           |      곱셈       | https://www.acmicpc.net/problem/2588  | [바로가기](step/1/2588.java)  ||
-|    if문    |   두 수 비교하기    | https://www.acmicpc.net/problem/1330  | [바로가기](step/2/1330.java)  ||
+|    조건문    |   두 수 비교하기    | https://www.acmicpc.net/problem/1330  | [바로가기](step/2/1330.java)  ||
 |           |     시험 성적     | https://www.acmicpc.net/problem/9498  | [바로가기](step/2/9498.java)  ||
 |           |      윤년       | https://www.acmicpc.net/problem/2753  | [바로가기](step/2/2753.java)  ||
 |           |    사분면 고르기    | https://www.acmicpc.net/problem/14681 | [바로가기](step/2/14681.java) ||
 |           |     알람 시계     | https://www.acmicpc.net/problem/2884  | [바로가기](step/2/2884.java)  ||
+|           |     오븐 시계     | https://www.acmicpc.net/problem/2525  | [바로가기](step/2/2525.java)  ||
 |   for문    |      구구단      | https://www.acmicpc.net/problem/2739  | [바로가기](step/3/2739.java)  ||
 |           |    A+B - 3    | https://www.acmicpc.net/problem/10950 | [바로가기](step/3/10950.java) ||
 |           |       합       | https://www.acmicpc.net/problem/8393  | [바로가기](step/3/8393.java)  ||
