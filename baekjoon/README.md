@@ -29,6 +29,7 @@
 |           |      윤년       | https://www.acmicpc.net/problem/2753  | [바로가기](step/2/2753.java)  ||
 |           |    사분면 고르기    | https://www.acmicpc.net/problem/14681 | [바로가기](step/2/14681.java) ||
 |           |     알람 시계     | https://www.acmicpc.net/problem/2884  | [바로가기](step/2/2884.java)  ||
+|           |    주사위 세개     | https://www.acmicpc.net/problem/2480  | [바로가기](step/2/2480.java)  ||
 |   for문    |      구구단      | https://www.acmicpc.net/problem/2739  | [바로가기](step/3/2739.java)  ||
 |           |    A+B - 3    | https://www.acmicpc.net/problem/10950 | [바로가기](step/3/10950.java) ||
 |           |       합       | https://www.acmicpc.net/problem/8393  | [바로가기](step/3/8393.java)  ||
