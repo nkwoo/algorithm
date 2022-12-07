@@ -15,6 +15,7 @@
 |   그대로 출력하기   | https://www.acmicpc.net/problem/11718 | [바로가기](problem/n11718/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
 |  그대로 출력하기 2  | https://www.acmicpc.net/problem/11719 | [바로가기](problem/n11719/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
 | 열 개씩 끊어 출력하기 | https://www.acmicpc.net/problem/11721 | [바로가기](problem/n11721/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+|    1로 만들기    | https://www.acmicpc.net/problem/1463  | [바로가기](problem/n1463/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
 
 ## 단계별 문제 - https://www.acmicpc.net/step
 
