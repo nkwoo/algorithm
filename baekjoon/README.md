@@ -5,17 +5,27 @@
 [백준 알고리즘](https://www.acmicpc.net/)
 
 ## 일반 문제
-|      제목      | 바로가기                                  | 소스코드                             |                   상태                   | 피드백여부 |
-|:------------:|---------------------------------------|----------------------------------|:--------------------------------------:|:-----:|
-|    모음의 개수    | https://www.acmicpc.net/problem/1264  | [바로가기](problem/n1264/Main.java)  | ![100%](https://progress-bar.dev/100/) |   ✔   |
-|    제곱수의 합    | https://www.acmicpc.net/problem/1699  |                                  |  ![20%](https://progress-bar.dev/20/)  |       |
-|   A+B - 2    | https://www.acmicpc.net/problem/2558  | [바로가기](problem/n2558/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
-|    2007년     | https://www.acmicpc.net/problem/1924  | [바로가기](problem/n1924/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
-|   A+B - 6    | https://www.acmicpc.net/problem/10953 | [바로가기](problem/n10953/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
-|   그대로 출력하기   | https://www.acmicpc.net/problem/11718 | [바로가기](problem/n11718/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
-|  그대로 출력하기 2  | https://www.acmicpc.net/problem/11719 | [바로가기](problem/n11719/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
-| 열 개씩 끊어 출력하기 | https://www.acmicpc.net/problem/11721 | [바로가기](problem/n11721/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
-|    1로 만들기    | https://www.acmicpc.net/problem/1463  | [바로가기](problem/n1463/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
+| 구분  |  타이틀         | 바로가기                                  | 소스코드                             |                   상태                   | 피드백여부 |
+|:---:|:------------:|---------------------------------------|----------------------------------|:--------------------------------------:|:-----:|
+| 입출력 |    모음의 개수    | https://www.acmicpc.net/problem/1264  | [바로가기](problem/n1264/Main.java)  | ![100%](https://progress-bar.dev/100/) |   ✔   |
+|     |    제곱수의 합    | https://www.acmicpc.net/problem/1699  |                                  |  ![20%](https://progress-bar.dev/20/)  |       |
+|     |   A+B - 2    | https://www.acmicpc.net/problem/2558  | [바로가기](problem/n2558/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
+|     |    2007년     | https://www.acmicpc.net/problem/1924  | [바로가기](problem/n1924/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
+|     |   A+B - 6    | https://www.acmicpc.net/problem/10953 | [바로가기](problem/n10953/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+|     |   그대로 출력하기   | https://www.acmicpc.net/problem/11718 | [바로가기](problem/n11718/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+|     |  그대로 출력하기 2  | https://www.acmicpc.net/problem/11719 | [바로가기](problem/n11719/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+|     | 열 개씩 끊어 출력하기 | https://www.acmicpc.net/problem/11721 | [바로가기](problem/n11721/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+|     |   별 찍기 - 3   | https://www.acmicpc.net/problem/2440  | [바로가기](problem/n2440/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
+|     |   별 찍기 - 4   | https://www.acmicpc.net/problem/2441  | [바로가기](problem/n2441/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
+|     |   별 찍기 - 5   | https://www.acmicpc.net/problem/2442  | [바로가기](problem/n2442/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
+|     |   별 찍기 - 8   | https://www.acmicpc.net/problem/2445  | [바로가기](problem/n2445/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
+|     |   별 찍기 - 9   | https://www.acmicpc.net/problem/2446  | [바로가기](problem/n2446/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
+|     |  별 찍기 - 12   | https://www.acmicpc.net/problem/2522  | [바로가기](problem/n2522/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
+|     |  별 찍기 - 16   | https://www.acmicpc.net/problem/10991 | [바로가기](problem/n10991/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+|     |  별 찍기 - 17   | https://www.acmicpc.net/problem/10992 | [바로가기](problem/n10992/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+| DP  |    1로 만들기    | https://www.acmicpc.net/problem/1463  | [바로가기](problem/n1463/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
+|     |   2×n 타일링    | https://www.acmicpc.net/problem/11726 | [바로가기](problem/n11726/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+
 
 ## 단계별 문제 - https://www.acmicpc.net/step
 
