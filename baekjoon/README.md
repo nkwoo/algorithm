@@ -25,7 +25,8 @@
 |     |  별 찍기 - 17   | https://www.acmicpc.net/problem/10992 | [바로가기](problem/n10992/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
 | DP  |    1로 만들기    | https://www.acmicpc.net/problem/1463  | [바로가기](problem/n1463/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
 |     |   2×n 타일링    | https://www.acmicpc.net/problem/11726 | [바로가기](problem/n11726/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
-|     |  2×n 타일링 2   | https://www.acmicpc.net/problem/11726 | [바로가기](problem/n11727/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+|     |  2×n 타일링 2   | https://www.acmicpc.net/problem/11727 | [바로가기](problem/n11727/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+|     | 1, 2, 3 더하기  | https://www.acmicpc.net/problem/9095  | [바로가기](problem/n9095/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
 
 
 ## 단계별 문제 - https://www.acmicpc.net/step
