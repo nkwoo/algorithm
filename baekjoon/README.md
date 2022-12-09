@@ -5,7 +5,7 @@
 [백준 알고리즘](https://www.acmicpc.net/)
 
 ## 일반 문제
-| 구분  |  타이틀         | 바로가기                                  | 소스코드                             |                   상태                   | 피드백여부 |
+| 구분  |     타이틀      | 바로가기                                  | 소스코드                             |                   상태                   | 피드백여부 |
 |:---:|:------------:|---------------------------------------|----------------------------------|:--------------------------------------:|:-----:|
 | 입출력 |    모음의 개수    | https://www.acmicpc.net/problem/1264  | [바로가기](problem/n1264/Main.java)  | ![100%](https://progress-bar.dev/100/) |   ✔   |
 |     |    제곱수의 합    | https://www.acmicpc.net/problem/1699  |                                  |  ![20%](https://progress-bar.dev/20/)  |       |
@@ -25,6 +25,7 @@
 |     |  별 찍기 - 17   | https://www.acmicpc.net/problem/10992 | [바로가기](problem/n10992/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
 | DP  |    1로 만들기    | https://www.acmicpc.net/problem/1463  | [바로가기](problem/n1463/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
 |     |   2×n 타일링    | https://www.acmicpc.net/problem/11726 | [바로가기](problem/n11726/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+|     |  2×n 타일링 2   | https://www.acmicpc.net/problem/11726 | [바로가기](problem/n11727/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
 
 
 ## 단계별 문제 - https://www.acmicpc.net/step
