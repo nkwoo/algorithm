@@ -29,6 +29,7 @@
 |     | 1, 2, 3 더하기  | https://www.acmicpc.net/problem/9095  | [바로가기](problem/n9095/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
 |     |   쉬운 계단 수    | https://www.acmicpc.net/problem/10844 | [바로가기](problem/n10844/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
 |     |    오르막 수     | https://www.acmicpc.net/problem/11057 | [바로가기](problem/n11057/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
+|     |     이친수      | https://www.acmicpc.net/problem/2193  | [바로가기](problem/n2193/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
 
 
 ## 단계별 문제 - https://www.acmicpc.net/step
