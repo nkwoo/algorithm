@@ -27,6 +27,7 @@
 |     |   2×n 타일링    | https://www.acmicpc.net/problem/11726 | [바로가기](problem/n11726/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
 |     |  2×n 타일링 2   | https://www.acmicpc.net/problem/11727 | [바로가기](problem/n11727/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
 |     | 1, 2, 3 더하기  | https://www.acmicpc.net/problem/9095  | [바로가기](problem/n9095/Main.java)  | ![100%](https://progress-bar.dev/100/) |       |
+|     |   쉬운 계단 수    | https://www.acmicpc.net/problem/10844 | [바로가기](problem/n10844/Main.java) | ![100%](https://progress-bar.dev/100/) |       |
 
 
 ## 단계별 문제 - https://www.acmicpc.net/step
