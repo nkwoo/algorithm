@@ -9,6 +9,7 @@
 |      제목      |                               바로가기                                |            소스코드             |
 |:------------:|:-----------------------------------------------------------------:|:---------------------------:|
 | 가장 가까운 같은 글자 | https://school.programmers.co.kr/learn/courses/30/lessons/142086  | [바로가기](./level1/Chap1.java) |
+|   문자열 나누기    | https://school.programmers.co.kr/learn/courses/30/lessons/140108  | [바로가기](./level1/Chap2.java) |
 
 ## 2021 KAKAO BLIND RECRUITMENT
 
