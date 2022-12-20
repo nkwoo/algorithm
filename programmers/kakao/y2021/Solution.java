@@ -1,3 +1,5 @@
+package kakao.y2021;
+
 public class Solution {
     public String solution(String new_id) {
         return verifyUserId(new_id);
