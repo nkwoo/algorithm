@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  * Title : X보다 작은 수
  * Link : https://www.acmicpc.net/problem/10871
  */
-public class Main {
+public class Main_OLD {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
