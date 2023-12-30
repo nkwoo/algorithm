@@ -18,7 +18,7 @@
 | 0x00  |      오리엔테이션      |                      SKIP                      |
 | 0x01  |  기초 코드 작성 요령 I   |                      SKIP                      |
 | 0x02  |  기초 코드 작성 요령 II  | [바로가기](chap2-basic-code-write-tip-2/README.md) |
-| 0x03  |        배열        |                       -                        |
+| 0x03  |        배열        |         [바로가기](chap3-array/README.md)          |
 | 0x04  |      연결 리스트      |                       -                        |
 | 0x05  |        스택        |                       -                        |
 | 0x06  |        큐         |                       -                        |
